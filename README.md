@@ -1,10 +1,10 @@
-# Elastic Flow Analysis
+# Ball Speed Analysis
 
-**A computer vision software for analysing coupled elastohydrodynamics and force-velocity relationships in lubricated flexible systems.**
+**Specialised computer vision software for analysing the speed of a pressure driven ball in a lubricated elastic tube. Based on my Master's research on force-velocity scaling laws in coupled lubrication-membrane elastohydrodynamic systems, at the Manchester Centre for Nonlinear Dynamics at The University of Manchester.**
 
 ## 1. Core Functionality & USPs
 
-The application is a specialised tool for **Elastohydrodynamics Motion Analysis**, designed to bridge the gap between raw experimental image data and physical power-law modeling.
+The application is a specialised tool for **High Speed Velocimetry (Object Speed Analysis)**, designed to bridge the gap between raw experimental image data and physical power-law modeling.
 
 ### Key Features
 
