@@ -14,6 +14,10 @@ The application is a specialised tool for **Elastohydrodynamics Motion Analysis*
 - **Outlier Rejection**: Employs Huber regression and Median Absolute Deviation (MAD) for reliable fitting in the presence of experimental outliers.
 - **Integrated Visualization**: Real-time plotting of trajectory fits and power-law segments using Matplotlib embedded in a PyQt6 interface.
 
+<p align="center">
+  <img src="public/ball-tracking.jpg" alt="Ball tracking example" width="600">
+</p>
+
 ## 2. Directory Structure
 
 ```text
